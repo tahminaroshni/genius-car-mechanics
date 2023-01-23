@@ -1,0 +1,10 @@
+.service {
+  border: 1px solid teal;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.service img {
+  height: 300px;
+  width: 100%;
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Car repair shop",
+    "price": 2000,
+    "time": 2,
+    "image": "https://i.ibb.co/VpgBs5x/service1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Car repair shop",
+    "price": 2000,
+    "time": 2,
+    "image": "https://i.ibb.co/gTKcJ0d/service2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Car repair shop",
+    "price": 2000,
+    "time": 2,
+    "image": "https://i.ibb.co/bQcwTpR/service3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Car repair shop",
+    "price": 2000,
+    "time": 2,
+    "image": "https://i.ibb.co/WB9N1gv/service4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Car repair shop",
+    "price": 2000,
+    "time": 2,
+    "image": "https://i.ibb.co/dpHDtj3/service5.jpg"
+  }
+]
